@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "score_to_xpbar:player_tick"
+    }
+}
